@@ -22,4 +22,4 @@
 ### Consider for Assessment
 
 ## Guild
-/// Anyone may Stake 1,000,000 XP into a guild
+/// Anyone may Stake 1000 XP into a guild
